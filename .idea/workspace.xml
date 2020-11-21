@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c61b7d1-3802-4412-8686-27913403dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/addBorder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addBorder/addBorder.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addTwoDigit/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addTwoDigit/addTwoDigit.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/add2/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="tsconfig.json" />
         <option value="TypeScript File" />
       </list>
     </option>
@@ -66,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605954395065</updated>
       <workItem from="1605954396150" duration="35000" />
-      <workItem from="1605954452007" duration="6819000" />
+      <workItem from="1605954452007" duration="7776000" />
     </task>
     <servers />
   </component>
@@ -85,6 +87,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="197" key="#Inspections" timestamp="1605964198727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="197" key="#Inspections/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605964198727" />
+    <state x="716" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605964282319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605964282319" />
     <state x="460" y="164" key="SettingsEditor" timestamp="1605954431127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
