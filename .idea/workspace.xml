@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c61b7d1-3802-4412-8686-27913403dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alternatingSums/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alternatingSums/alternatingSums.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areEquallyStrong/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areEquallyStrong/areEquallyStrong.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TypeScript" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -76,12 +76,17 @@
       <workItem from="1605954452007" duration="10376000" />
       <workItem from="1605975870804" duration="15000" />
       <workItem from="1605979748017" duration="409000" />
-      <workItem from="1606040059047" duration="4903000" />
+      <workItem from="1606040059047" duration="4980000" />
+      <workItem from="1606152743799" duration="353000" />
+      <workItem from="1606153111745" duration="431000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -100,17 +105,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="197" key="#Inspections/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605964198727" />
-    <state x="716" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605964282319">
+    <state x="711" y="343" key="#Notifications" timestamp="1606153128505">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="716" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605964282319" />
+    <state x="711" y="343" key="#Notifications/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606153128505" />
+    <state x="716" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606152781206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606152781206" />
     <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1605975881236">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605975881236" />
-    <state x="460" y="164" key="SettingsEditor" timestamp="1605954431127">
+    <state x="460" y="164" key="SettingsEditor" timestamp="1606153188374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605954431127" />
+    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606153188374" />
   </component>
 </project>
