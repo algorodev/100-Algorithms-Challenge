@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c61b7d1-3802-4412-8686-27913403dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arrayMaximalAdjacentDifference/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrayMaximalAdjacentDifference/arrayMaximalAdjacentDifference.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayPreviousLess/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrayPreviousLess/arrayPreviousLess.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,7 @@
       <workItem from="1605979748017" duration="409000" />
       <workItem from="1606040059047" duration="4980000" />
       <workItem from="1606152743799" duration="353000" />
-      <workItem from="1606153111745" duration="4001000" />
+      <workItem from="1606153111745" duration="5310000" />
     </task>
     <servers />
   </component>
