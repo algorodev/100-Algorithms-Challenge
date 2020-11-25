@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c61b7d1-3802-4412-8686-27913403dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/containsDuplicates/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containsDuplicates/containsDuplicates.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertCelsiusToFarenheit/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertCelsiusToFarenheit/convertCelsiusToFarenheit.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
       <workItem from="1606153111745" duration="9667000" />
       <workItem from="1606237116962" duration="2288000" />
       <workItem from="1606239445324" duration="10882000" />
-      <workItem from="1606323377981" duration="2285000" />
+      <workItem from="1606323377981" duration="2945000" />
     </task>
     <servers />
   </component>
@@ -125,10 +126,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1605975881236" />
-    <state x="460" y="164" key="SettingsEditor" timestamp="1606153188374">
+    <state x="460" y="164" key="SettingsEditor" timestamp="1606325943939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606153188374" />
+    <state x="460" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606325943939" />
     <state x="0" y="328" width="1399" height="799" key="dock-window-1" timestamp="1606240073399">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
