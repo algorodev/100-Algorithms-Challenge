@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c61b7d1-3802-4412-8686-27913403dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/composeRanges/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composeRanges/composeRanges.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/confirmEnding/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/confirmEnding/confirmEnding.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,8 @@
       <workItem from="1606152743799" duration="353000" />
       <workItem from="1606153111745" duration="9667000" />
       <workItem from="1606237116962" duration="2288000" />
-      <workItem from="1606239445324" duration="10648000" />
+      <workItem from="1606239445324" duration="10882000" />
+      <workItem from="1606323377981" duration="740000" />
     </task>
     <servers />
   </component>
