@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c61b7d1-3802-4412-8686-27913403dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/digitDegree/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/digitDegree/digitDegree.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domainType/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domainType/domainType.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +85,7 @@
       <workItem from="1606323377981" duration="7735000" />
       <workItem from="1606334251417" duration="604000" />
       <workItem from="1606411727066" duration="739000" />
-      <workItem from="1606412831076" duration="2234000" />
+      <workItem from="1606412831076" duration="3202000" />
     </task>
     <servers />
   </component>
@@ -125,10 +125,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="733" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1606414474734" />
-    <state x="716" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606152781206">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="955" y="429" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606415308397">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="716" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1606152781206" />
+    <state x="955" y="429" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1606415308397" />
     <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1606337062334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
