@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c61b7d1-3802-4412-8686-27913403dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/encolseInBrackets/encloseInBrackets.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evenDigitsOnly/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evenDigitsOnly/evenDigitsOnly.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,7 @@
       <workItem from="1606323377981" duration="7735000" />
       <workItem from="1606334251417" duration="604000" />
       <workItem from="1606411727066" duration="739000" />
-      <workItem from="1606412831076" duration="4485000" />
+      <workItem from="1606412831076" duration="4850000" />
     </task>
     <servers />
   </component>
