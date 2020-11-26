@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c61b7d1-3802-4412-8686-27913403dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/extractEachKth/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extractEachKth/extractEachKth.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extractMatrixColumn/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/extractMatrixColumn/extractMatrixColumn.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <workItem from="1606323377981" duration="7735000" />
       <workItem from="1606334251417" duration="604000" />
       <workItem from="1606411727066" duration="739000" />
-      <workItem from="1606412831076" duration="6458000" />
+      <workItem from="1606412831076" duration="7109000" />
     </task>
     <servers />
   </component>
