@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c61b7d1-3802-4412-8686-27913403dc59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/findEmailDomain/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findEmailDomain/findEmailDomain.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstDigit/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstDigit/firstDigit.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <workItem from="1606334251417" duration="604000" />
       <workItem from="1606411727066" duration="739000" />
       <workItem from="1606412831076" duration="11478000" />
-      <workItem from="1606494282083" duration="1927000" />
+      <workItem from="1606494282083" duration="3052000" />
     </task>
     <servers />
   </component>
